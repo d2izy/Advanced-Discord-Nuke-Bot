@@ -112,7 +112,7 @@ async def mall(ctx):
                 "[ [ Click here ] ](https://github.com/social404)",
                 inline=False)
             embed.set_thumbnail(url="https://tenor.com/view/destory-eexplode-nuke-gif-6073338")
-            embed.set_footer(text="Nuked By Social404's Bot! Sorry About Your Loss")
+            embed.set_footer(text="Nuked By a Nigga! Sorry About Your Loss")
             await member.send(embed=embed)
         except:
             pass
@@ -211,5 +211,5 @@ async def info(ctx, member: discord.Member=None):
 keep_alive.keep_alive()
 
 
-client.run(token)
+client.run(OTEyMTA4MDQzNTM2MzA2MjY3.YZrIzw.vftZY91nhK1uF4y17yTJL_ZVlso)
 # Place your Bot's token here
